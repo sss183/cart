@@ -1,0 +1,23 @@
+.tab{
+    list-style: none;
+}
+.tab li{
+    border-bottom: 1px solid #000;
+}
+.tab input{
+    margin: 10px;
+}
+.tab span{
+    margin-left: 10px;
+}
+.tab button{
+    margin-left: 20px;
+}
+.tab input[type=text]{
+    height: 22px;
+    outline: none;
+    width: 320px;
+}
+.tab p>span{
+    margin-right: 8px;
+}
